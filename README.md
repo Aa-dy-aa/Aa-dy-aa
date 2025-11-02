@@ -16,7 +16,6 @@
 
 [![](https://visitcount.itsvg.in/api?id=Aa-dy-aa&icon=5&color=11)](https://visitcount.itsvg.in)
 
-## 🪄 Holopin Badges:
 [![An image of @aadyaa's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/aadyaa)](https://holopin.io/@aadyaa)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
